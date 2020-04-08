@@ -4,10 +4,10 @@ This is a python data mining proyect, that contains an ensemble learning method 
 ## Process
 The code will be divided into __3 different development levels__
 1. Data Analysis and PCA
-  1.1 Data retrieve
-  1.2 Plotting the data (Histograms and Plots)
-  1.3 Outliers detection
-  1.4 PCA([_Principal Component Analysis_](https://www.sciencedirect.com/topics/medicine-and-dentistry/principal-component-analysis))
+    1.1 Data retrieve
+    1.2 Plotting the data (Histograms and Plots)
+    1.3 Outliers detection
+    1.4 PCA([_Principal Component Analysis_](https://www.sciencedirect.com/topics/medicine-and-dentistry/principal-component-analysis))
 2. Classifiers Building
 3. Data Visualization (Test and Results)
 ## Getting Started
