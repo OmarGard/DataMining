@@ -44,3 +44,5 @@ python -m notebook
 ## Built With
   - Python 3.7 (Anaconda)
   - Jupyter Notebook
+## Authors
+ __- Omar Garduza__ - _Initial Work_ - [OmarGard](https://github.com/OmarGard)
