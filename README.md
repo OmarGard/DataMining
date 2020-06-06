@@ -1,6 +1,6 @@
 # DataMining
 Data Mining Proyect - Classifiers
-This is a python data mining proyect, that contains an ensemble learning method for classification with 3 different classifiers.
+This is a python data mining proyect, that contains an ensemble learning method for classification with 3 different classifiers.There are several codes to split the development and analysis process, but the final code is the *06 - FinalProject* file
 ## Process
 The code will be divided into __6 different development levels__
 1. Data Analysis
@@ -34,7 +34,7 @@ The code will be divided into __6 different development levels__
     3. Plotting the classification reports
     4. Plotting the confusion matrix
     5. Plotting the scatterplot of the classification results
-6. Final Project
+6. Final Project (**This is the final code**)
     1. Reading the data from a given file file, set up the ensemble parameters, transform the data by applying the PCA and train the models
     2. The 2-dimensions PCA plot
     3. The Variance explanation
